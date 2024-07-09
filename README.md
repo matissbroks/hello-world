@@ -9,10 +9,11 @@ ___
 
 ### Note on 2022
 
-Finnaly i have some public repos to show
+Finnaly i have some public repos to show (2024 Edit: Added 1 new repo)
 
 - PHP Projects
   - [plain-todo-app](https://github.com/matissbroks/plain-todo-app)
   - [laravel-todo-app](https://github.com/matissbroks/laravel-todo-app)
+  - [quick-chat](https://github.com/matissbroks/quick-chat)
 - JavaScript projects
   - [js-card-game](https://github.com/matissbroks/js-card-game)
