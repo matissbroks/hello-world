@@ -2,8 +2,10 @@
 This is my first GitHub project
 
 Hello!
-I just started to use GitHub, so here is some random text waht i type, because of task what im following right now
+I just started to use GitHub, so here is some random text what i type, because of task what im following right now
 Thanks! :D
+
+(Still, until 2025, there was typo)
 
 ___
 
