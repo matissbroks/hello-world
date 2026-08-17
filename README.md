@@ -1,5 +1,5 @@
 # hello-world
-This is my first GitHub project
+This is my first GitHub project (Created on 13.03.2018)
 
 Hello!
 I just started to use GitHub, so here is some random text what i type, because of task what im following right now
